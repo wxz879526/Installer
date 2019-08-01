@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIDEF>
+  <font face="微软雅黑" size="13"/>
+
+  <string src="values:string" />
+  <skin src="values:skin"/>
+  <color src="values:color"/>
+
+
+  <style>
+    <class name="normalbtn" font="" colorText="#385e8b" colorTextDisable="#91a7c0" textMode="25" cursor="hand" margin-x="0"/>
+    <class name="cls_btn_weblink" cursor="hand" colorText="#1e78d5" colorTextHover="#1e78d5" font="italic:0" fontHover="underline:1,italic:0" />
+
+    <class name="css_imgbtn" font="" colorText="#6C8BA9" colorTextDisable="#91a7c0" cursor="hand"/>
+    <class name="css_chk" font="" colorText="#6C8BA9" colorTextDisable="#91a7c0" cursor="hand"/>
+    <class name="css_text" font="" colorText="#6C8BA9" colorTextDisable="#91a7c0" cursor="hand"/>
+
+    <class name="css_edit_window"  colorBorder="#6C8BA9" valign="middle" margin-x="1" margin-y="1" />
+    <class name="css_edit" textmode="24"  colorText="#000000"/>
+  </style>
+
+  <objattr>
+    <imgbtn class="css_imgbtn"/>
+    <check  class="css_chk"/>
+    <link class="cls_btn_weblink"/>
+    <text class="css_text"/>
+    <edit class="css_edit"/>
+    <progress  bkgndSkin="prog_bkgnd" posSkin="prog_bar" value="20" min="0" max="100"/>
+  </objattr>
+  
+</UIDEF>

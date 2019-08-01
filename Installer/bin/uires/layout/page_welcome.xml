@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+  <caption pos="0,0,-0,-0">
+    <img name="img_welcome_center" skin="img_welcome_center" pos="|0,|-80" offset="-0.5,-0.5" animate="1" />
+	<text name="txt_welcome" pos="|0,[20" offset="-0.5,-0.5" colorText="#FFFFFF" font="bold:1,adding:10">欢迎使用多账号跟单系统</text>
+    <!--立即安装-->
+    <imgbtn name="btn_install" skin="img_install" pos="|0,|80" offset="-0.5,-0.5" animate="1" />
+    <!--协议-->
+    <check  name="chk_agreement" pos="30,-30" skin="_skin.sys.checkbox" >我已阅读并同意</check>
+    <link name="link_agreement" pos="145,-29" cursor="hand" >软件许可协议</link>
+    <!--自定义安装-->
+
+    <imgbtn name="btn_custominstall"  skin="img_custom_button" pos="-100,-33"  animate="1" >自定义安装</imgbtn>
+  </caption>
+</include>

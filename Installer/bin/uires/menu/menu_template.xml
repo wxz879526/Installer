@@ -1,0 +1,7 @@
+<menu itemHeight="26" iconMargin="4" textMargin="8" maxWidth="200" iconSize="18,18" iconSkin="skin_main_top_menu_icons">
+	 <item id="303" icon="4">个人设置</item>
+	 <item id="300" icon="0">官方网站</item>
+	 <item id="304" icon="3">联系我们</item>
+	 <item id="301" icon="1">关于我们</item>
+	 <item id="302" icon="2">退出系统</item>
+</menu>

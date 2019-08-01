@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<skin>
+    <button name="skin_btn_blank" alpha="1"/>
+	<button name="skin_toolbar_normal" colorUp="#EEEEEE" colorDown="#EEEEEE" colorBorderHover="#CCCCCC" />
+	<button name="skin_edit_default" colorBorder="rgb(157,184,204)" colorBorderHover="rgb(59,147,205)" colorUp="#FFFFFF" colorDown="#FFFFFF" colorUpHover="#FFFFFF" colorDownHover="#FFFFFF"  colorUpDisable="#F0F0F0" colorDownDisable="#F0F0F0" cornerRadius="0" />
+	<button name="skin_edit_default_without_border" colorBorder="rgba(0,0,0,0)" colorBorderHover="rgba(0,0,0,0)" colorUp="#FFFFFF" colorDown="#FFFFFF" colorUpHover="#FFFFFF" colorDownHover="#FFFFFF"  colorUpDisable="#F0F0F0" colorDownDisable="#F0F0F0" cornerRadius="0" />
+	<imgframe name="skin_wnd_bg" src="IMG:IMG_WND_BG" margin-x="1" margin-y="1" />
+	<imglist name="img_welcome_center" src="IMG:welcome_center"/>
+    <imglist name="img_install" src="IMG:install" states="4"/>
+	<imglist name="img_custom_button" src="IMG:custom_button" states="4"/>
+	<imgframe name="prog_bar" src="IMG:prog_bar" left="10" top="2" right="5" bottom="2"/>
+    <imgframe name="prog_bkgnd" src="IMG:prog_bkgnd" left="10" top="2" right="10" bottom="2"/>
+	<imglist name="img_setup1" src="IMG:setup1"/>
+    <imglist name="img_setup2" src="IMG:setup2"/>
+    <imglist name="img_setup3" src="IMG:setup3"/>
+    <imglist name="img_setup4" src="IMG:setup4"/>
+    <imglist name="img_setup_tab" src="IMG:setup_tab" states="4"/>
+	<imglist name="img_finish_ads" src="IMG:finish_ads" states="4"/>
+    <imglist name="img_finish_feel" src="IMG:finish_feel" states="4"/>
+    <imglist name="img_finish_finish" src="IMG:finish_finish" states="4"/>
+</skin>
